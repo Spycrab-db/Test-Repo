@@ -1,4 +1,4 @@
 print("yEEt")
 
-for i in range(10):
-    print(i)
+name = input("What's your name")
+print(f"Hi {name}!")
